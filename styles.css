@@ -23,3 +23,22 @@ p {
     height: 100px;
     background-position: center;
 }
+#penis{
+    background-color:palegoldenrod;
+    height: 50px;
+    background-position: center;
+}
+
+.questionnaire{
+
+color:seashell;
+font-size:60px;
+}
+
+.answer{
+
+color:springgreen;
+font-size:40px;
+font-family:fantasy;
+
+}
