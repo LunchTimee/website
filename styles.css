@@ -1,18 +1,25 @@
 html {
     background-color:coral;
 }
-
+body{
+    margin:0;
+}
 p {
     color:crimson;
 }
 .titleone{
-    color:cornflowerblue;
+    color:rgb(255, 0, 0);
 }
 .titletwo{
     color:indianred;
 }
 .titlepenis{
     font-size:100px;
-    color:deeppink;
+    color:rgb(102, 9, 25);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#home{
+    background-color:palegoldenrod;
+    height: 100px;
+    background-position: center;
 }
