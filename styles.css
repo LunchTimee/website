@@ -7,10 +7,10 @@ html {
 
 #main{
     
-    background-color: rgb(227, 255, 206);
+    background-color: rgb(206, 255, 221);
     margin-left: auto;
     margin-right: auto;
-    height: 2000px;
+    height: 1000px;
     margin-bottom: 20px;
     width: 1000px;
 
@@ -22,11 +22,32 @@ html {
     background-position: center;
     margin-right: auto;
     width: 200px;
-    height: 1980px;
+    height: 980px;
     padding: 10px;
 
 }
 
+#homearea{
+
+    background-color: rgb(206, 255, 221);
+    background-position: center;
+    margin-right: 80px;
+    width: 600px;
+    height: 500px;
+    padding: 10px;
+
+}
+#gallery{
+
+    background-color: rgb(206, 255, 221);
+    background-position: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    height: 10700px;
+    padding: 10px;
+
+}
 .bigtext{
     font-size: 30px;
     color: rgb(0 229 154);
@@ -43,6 +64,24 @@ html {
     margin-top: 10px;
 }
 
+.header{
+    font-size: 50px;
+    color: rgb(14, 87, 81);
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.text{
+
+    font-size: 20px;
+    color: rgb(14, 87, 81);
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
 #poop{
     bottom: 0;
     left: 0;
@@ -50,4 +89,9 @@ html {
     background-color: rgb(14, 87, 81);
     padding: 10px;
     text-align: center;
+}
+
+#divider{
+    display: block;
+    margin: auto;
 }
