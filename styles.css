@@ -1,44 +1,53 @@
 html {
-    background-color:coral;
+    background-color:rgb(14, 87, 81);
+     background-image: url("loopBG.png");
+ margin-left: auto;
+    margin-right: auto;
 }
-body{
-    margin:0;
+
+#main{
+    
+    background-color: rgb(227, 255, 206);
+    margin-left: auto;
+    margin-right: auto;
+    height: 2000px;
+    margin-bottom: 20px;
+    width: 1000px;
+
 }
-p {
-    color:crimson;
-}
-.titleone{
-    color:rgb(255, 0, 0);
-}
-.titletwo{
-    color:indianred;
-}
-.titlepenis{
-    font-size:100px;
-    color:rgb(102, 9, 25);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-#home{
-    background-color:palegoldenrod;
-    height: 100px;
+
+#sidebar{
+
+    background-color: rgb(14, 87, 81);
     background-position: center;
-}
-#penis{
-    background-color:palegoldenrod;
-    height: 50px;
-    background-position: center;
-}
+    margin-right: auto;
+    width: 200px;
+    height: 1980px;
+    padding: 10px;
 
-.questionnaire{
-
-color:seashell;
-font-size:60px;
 }
 
-.answer{
+.bigtext{
+    font-size: 30px;
+    color: rgb(0 229 154);
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
 
-color:springgreen;
-font-size:40px;
-font-family:fantasy;
+.link{
+    color: rgb(250, 231, 60);
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
 
+#poop{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(14, 87, 81);
+    padding: 10px;
+    text-align: center;
 }
