@@ -130,6 +130,7 @@ html {
     text-align: center;
     display: block;
     margin-top: 10px;
+    margin-bottom: 21px;
 }
 
 .contactinfo:hover{
@@ -137,5 +138,6 @@ html {
     font-size: 30px;
     text-align: center;
     display: block;
-    margin-top: 10px;
+    margin-top: 6px;
+    margin-bottom: 10px;
 }
