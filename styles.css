@@ -45,7 +45,7 @@ html {
     margin-right: auto;
     margin-left: auto;
     width: 800px;
-    height: 10700px;
+    height: 1700px;
     padding: 10px;
 
 }
@@ -64,6 +64,24 @@ html {
     display: block;
     margin-top: 10px;
 }
+.biglink{
+    font-size:50px;
+    color: rgb(14, 87, 81);
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.biglink:hover{
+    font-size: 52px;
+    color: rgb(14, 87, 81);
+    margin-top: 0px;
+    margin-bottom: 18px;
+    text-decoration: underline;
+    user-select: none;
+    cursor: pointer;
+}
 .link:hover{
     color: white;
     font-size: 21px;
@@ -71,6 +89,7 @@ html {
     display: block;
     margin-top: 10px;
     text-decoration: underline;
+    user-select: none;
 }
 
 .header{
